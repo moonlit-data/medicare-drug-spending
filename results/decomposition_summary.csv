@@ -1,0 +1,11 @@
+component,delta_spending,share_of_change_pct
+absent_from_ry26,-3542724568.98,-3.9356
+restatement_2020,-3720123227.85,-4.1327
+ry26_only_2020,2704578559.56,3.0045
+new_drugs,29624687956.07,32.9099
+exited_drugs,0,0
+patients_per_drug,60576047625.88,67.2936
+utilization,3986421378.29,4.4285
+claims_fallback,1561354159.11,1.7345
+price,-1172707400.09,-1.3028
+unattributed,0,0

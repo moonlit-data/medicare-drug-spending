@@ -1,0 +1,6 @@
+group,match_field,match_value,rule,priority
+DOAC,gnrc_contains,Apixaban,"test rule",1
+GLP-1 / incretin,gnrc_contains,Semaglutide,"test rule",2
+GLP-1 / incretin,gnrc_contains,Tirzepatide,"test rule",3
+Oncology,gnrc_contains,Lenalidomide,"test rule",4
+Immunology,gnrc_contains,Etanercept,"test rule",5

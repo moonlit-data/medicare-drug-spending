@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+# Raw downloads are verified by checksum, not versioned.
+# The 2020-2024 release file is ~5 MB; uncomment the line below if you
+# switch to the multi-GB prescribers file.
+# data/raw/

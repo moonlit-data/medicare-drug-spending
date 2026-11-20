@@ -1,0 +1,15 @@
+check_name,detail,value
+blank_benes_2020,Overall rows with spending but beneficiary count suppressed in 2020,59
+blank_benes_2024,Overall rows with spending but beneficiary count suppressed in 2024,199
+blank_spend_2020,"Overall rows with spending blank in 2020 (drug absent or <11 claims, redacted)",738
+blank_spend_2024,Overall rows with spending blank in 2024,0
+brands_star_suffix,Overall rows whose brand name ends in '*' (multiple routes of administration flag),191
+distinct_brands,distinct brand names among Overall rows,3508
+gone_by_2024,Overall rows with 2020 spending but none in 2024 (structurally zero: file only lists drugs with >=11 claims in 2024),0
+mfr_rows_exceed_overall,drug-years where summed manufacturer spending differs from the Overall row by more than $0.01,3
+new_in_2024,Overall rows present in 2024 with no 2020 spending,738
+outlier_flag_2020,Overall rows flagged as price outliers in 2020,197
+outlier_flag_2024,Overall rows flagged as price outliers in 2024,395
+rows_manufacturer,manufacturer-level rows; summing ALL rows would double-count,10911
+rows_overall,rows with Mftr_Name = 'Overall' (one per brand/generic combination),3625
+rows_total,all rows in the file (drug x manufacturer rows + Overall rows),14536

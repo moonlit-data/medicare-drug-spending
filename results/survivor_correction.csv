@@ -1,0 +1,14 @@
+check_name,detail,value
+prior_release,RY21 (data through 2020): its drug list is based on >=11 claims in 2020,
+prior_release_total_2020,full 2020 gross spending over all drugs listed in RY21,198650307576.41
+prior_release_n_drugs_2020,count of brands with 2020 spend in RY21 (full-market drug count),3415
+this_release_total_2020,2020 gross spending over drugs still listed in RY26 (survivors only),194092038339.14
+no_longer_listed,full 2020 total minus survivor 2020 total; subtracted in the decomposition,4558269237.27
+brands_absent_from_ry26,brands with 2020 spend in RY21 that do not appear in RY26 at all,547
+spend_of_absent_brands_2020,their combined 2020 spend (RY21 values),3542724568.98
+brands_revised_2020,shared brands whose 2020 spend differs between releases by > $0.01 (a suppressed 2020 cell counts as 0),940
+net_revision_2020,sum over shared brands of (RY26 2020 spend - RY21 2020 spend; suppressed cells as 0),-3720123227.85
+largest_single_revision,largest absolute single-brand 2020 revision,237365190.22
+brands_ry26_only_2020,brands with 2020 spend in RY26 that are not in RY21 at all,26
+spend_of_ry26_only_2020,their combined 2020 spend (RY26 values),2704578559.56
+probable_renames_ry26_only,RY26-only brands sharing a generic name with an absent RY21 brand,22

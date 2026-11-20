@@ -1,0 +1,17 @@
+Brnd_Name,Gnrc_Name,Mftr_Name,Tot_Spndng_2020
+Druga,Apixaban,Overall,90
+Druga,Apixaban,Mftr One,50
+Druga,Apixaban,Mftr Two,40
+Drugb,Semaglutide,Overall,100
+Drugb,Semaglutide,Mftr One,100
+Drugc,Tirzepatide,Overall,
+Drugc,Tirzepatide,Mftr One,
+Drugd,Etanercept,Overall,30
+Drugd,Etanercept,Mftr One,30
+Drugf,Etanercept,Overall,80
+Drugf,Etanercept,Mftr One,80
+Drugg*,Stelara Generic,Overall,60
+Drugg*,Stelara Generic,Mftr One,60
+Drugold,Lenalidomide,Overall,25
+Drugold,Lenalidomide,Maker X,15
+Drugold,Lenalidomide,Maker Y,10

@@ -1,0 +1,95 @@
+group,match_field,match_value,rule,priority
+GLP-1 / incretin,gnrc_contains,Semaglutide,"generic name contains the active ingredient; covers Ozempic, Rybelsus, Wegovy",1
+GLP-1 / incretin,gnrc_contains,Tirzepatide,"generic name contains the active ingredient; covers Mounjaro, Zepbound",2
+GLP-1 / incretin,gnrc_contains,Dulaglutide,generic name contains the active ingredient; covers Trulicity,3
+GLP-1 / incretin,gnrc_contains,Liraglutide,"generic name contains the active ingredient; covers Victoza, Saxenda and generics",4
+GLP-1 / incretin,gnrc_contains,Exenatide,"generic name contains the active ingredient; covers Bydureon, Byetta",5
+GLP-1 / incretin,gnrc_contains,Lixisenatide,generic name contains the active ingredient; covers Adlyxin,6
+DOAC,gnrc_contains,Apixaban,generic name contains the active ingredient; covers Eliquis and generics,7
+DOAC,gnrc_contains,Rivaroxaban,generic name contains the active ingredient; covers Xarelto,8
+DOAC,gnrc_contains,Dabigatran,generic name contains the active ingredient; covers Pradaxa and generics,9
+DOAC,gnrc_contains,Edoxaban,generic name contains the active ingredient; covers Savaysa,10
+DOAC,gnrc_contains,Betrixaban,generic name contains the active ingredient; covers Bevyxxa,11
+SGLT2 inhibitors,gnrc_contains,Empagliflozin,"generic name contains the active ingredient, including fixed-dose combinations (Synjardy, Glyxambi, Trijardy)",12
+SGLT2 inhibitors,gnrc_contains,Dapagliflozin,"generic name contains the active ingredient, including combinations (Farxiga, Xigduo)",13
+SGLT2 inhibitors,gnrc_contains,Canagliflozin,"generic name contains the active ingredient, including combinations (Invokana, Invokamet)",14
+SGLT2 inhibitors,gnrc_contains,Ertugliflozin,"generic name contains the active ingredient (Steglatro, Steglujan, Segluromet)",15
+SGLT2 inhibitors,gnrc_contains,Bexagliflozin,generic name contains the active ingredient (Brenzavvy),16
+SGLT2 inhibitors,gnrc_contains,Sotagliflozin,generic name contains the active ingredient (Inpefa),17
+Insulins,gnrc_contains,Insulin,generic name contains 'Insulin'; covers all insulin products and mixes,18
+Oncology,gnrc_contains,Lenalidomide,top oncology drug by 2024 spending; covers Revlimid and generics,19
+Oncology,gnrc_contains,Enzalutamide,top oncology drug by 2024 spending; covers Xtandi,20
+Oncology,gnrc_contains,Zanubrutinib,top oncology drug by 2024 spending; covers Brukinsa,21
+Oncology,gnrc_contains,Acalabrutinib,top oncology drug by 2024 spending; covers Calquence,22
+Oncology,gnrc_contains,Ibrutinib,top oncology drug by 2024 spending; covers Imbruvica,23
+Oncology,gnrc_contains,Apalutamide,top oncology drug by 2024 spending; covers Erleada,24
+Oncology,gnrc_contains,Darolutamide,top oncology drug by 2024 spending; covers Nubeqa,25
+Oncology,gnrc_contains,Pomalidomide,top oncology drug by 2024 spending; covers Pomalyst,26
+Oncology,gnrc_contains,Palbociclib,top oncology drug by 2024 spending; covers Ibrance,27
+Oncology,gnrc_contains,Abemaciclib,top oncology drug by 2024 spending; covers Verzenio,28
+Oncology,gnrc_contains,Ribociclib,top oncology drug by 2024 spending; covers Kisqali,29
+Oncology,gnrc_contains,Venetoclax,top oncology drug by 2024 spending; covers Venclexta,30
+Oncology,gnrc_contains,Abiraterone,top oncology drug by 2024 spending; covers Zytiga and generics,31
+Oncology,gnrc_contains,Olaparib,top oncology drug by 2024 spending; covers Lynparza,32
+Oncology,gnrc_contains,Niraparib,top oncology drug by 2024 spending; covers Zejula,33
+Respiratory (inhaled),gnrc_contains,Tiotropium,"inhaled-only ingredient; covers Spiriva, Stiolto",35
+Respiratory (inhaled),gnrc_contains,Umeclidinium,"inhaled-only ingredient; covers Anoro, Incruse",36
+Respiratory (inhaled),gnrc_contains,Vilanterol,"inhaled-only ingredient; covers Anoro, Breo, Trelegy",37
+Respiratory (inhaled),gnrc_contains,Formoterol,"inhaled-only ingredient; covers Symbicort, Breztri, Dulera, Perforomist",38
+Respiratory (inhaled),gnrc_contains,Salmeterol,"inhaled-only ingredient; covers Advair, Serevent",39
+Respiratory (inhaled),gnrc_contains,Indacaterol,"inhaled-only ingredient; covers Arcapta, Utibron",40
+Respiratory (inhaled),gnrc_contains,Olodaterol,"inhaled-only ingredient; covers Stiolto, Striverdi",41
+Respiratory (inhaled),gnrc_contains,Aclidinium,"inhaled-only ingredient; covers Tudorza, Duaklir",42
+Respiratory (inhaled),gnrc_contains,Albuterol,"inhaled-only ingredient in this file; covers ProAir, Ventolin, Airsupra, Combivent",43
+Respiratory (inhaled),gnrc_contains,Levalbuterol,"inhaled-only ingredient; covers Xopenex",44
+Respiratory (inhaled),gnrc_contains,Revefenacin,"inhaled-only ingredient; covers Yupelri",45
+Respiratory (inhaled),gnrc_contains,Arformoterol,"inhaled-only ingredient; covers Brovana",46
+Respiratory (inhaled),brnd_contains,Advair,"inhaled fluticasone product",47
+Respiratory (inhaled),brnd_contains,Airduo,"inhaled fluticasone product",48
+Respiratory (inhaled),brnd_contains,Armonair,"inhaled fluticasone product",49
+Respiratory (inhaled),brnd_contains,Arnuity,"inhaled fluticasone product",50
+Respiratory (inhaled),brnd_contains,Breo,"inhaled fluticasone product",51
+Respiratory (inhaled),brnd_contains,Flovent,"inhaled fluticasone product",52
+Respiratory (inhaled),brnd_contains,Fluticasone Propionate HFA,"inhaled fluticasone product",53
+Respiratory (inhaled),brnd_contains,Fluticasone-Salmeterol,"inhaled fluticasone product",54
+Respiratory (inhaled),brnd_contains,Fluticasone-Vilanterol,"inhaled fluticasone product",55
+Respiratory (inhaled),brnd_contains,Trelegy,"inhaled fluticasone product",56
+Respiratory (inhaled),brnd_contains,Wixela,"inhaled fluticasone product",57
+Respiratory (inhaled),brnd_contains,Airsupra,"inhaled budesonide product",58
+Respiratory (inhaled),brnd_contains,Breyna,"inhaled budesonide product",59
+Respiratory (inhaled),brnd_contains,Breztri,"inhaled budesonide product",60
+Respiratory (inhaled),brnd_contains,Budesonide-Formoterol,"inhaled budesonide product",61
+Respiratory (inhaled),brnd_contains,Pulmicort,"inhaled budesonide product",62
+Respiratory (inhaled),brnd_contains,Symbicort,"inhaled budesonide product",63
+Respiratory (inhaled),brnd_contains,Asmanex,"inhaled mometasone product",64
+Respiratory (inhaled),brnd_contains,Dulera,"inhaled mometasone product",65
+Respiratory (inhaled),brnd_contains,Bevespi,"inhaled glycopyrrolate product",66
+Respiratory (inhaled),brnd_contains,Lonhala,"inhaled glycopyrrolate product",67
+Respiratory (inhaled),brnd_contains,Seebri,"inhaled glycopyrrolate product",68
+Respiratory (inhaled),brnd_contains,Alvesco,"inhaled ciclesonide product",69
+Respiratory (inhaled),brnd_contains,Atrovent,"inhaled ipratropium product",70
+Respiratory (inhaled),brnd_contains,Combivent,"inhaled ipratropium product",71
+Respiratory (inhaled),brnd_contains,Ipratropium-Albuterol,"inhaled ipratropium product",72
+Respiratory (mixed/unknown),brnd_contains,Budesonide*,"multi-route brand; could include inhaled and oral forms",73
+Respiratory (mixed/unknown),brnd_contains,Fluticasone Propionate*,"multi-route brand; could include inhaled and nasal/topical forms",74
+Respiratory (mixed/unknown),brnd_contains,Mometasone Furoate*,"multi-route brand; could include inhaled and nasal forms",75
+Respiratory (mixed/unknown),brnd_contains,Glycopyrrolate*,"multi-route brand; could include inhaled and oral/injectable forms",76
+Respiratory (mixed/unknown),brnd_contains,Ipratropium Bromide*,"multi-route brand; could include inhaled and nasal forms",77
+Immunology,gnrc_contains,Dupilumab,biologic immunology drug by 2024 spending; covers Dupixent,78
+Immunology,gnrc_contains,Adalimumab,biologic immunology drug by 2024 spending; covers Humira and biosimilars,79
+Immunology,gnrc_contains,Risankizumab,biologic immunology drug by 2024 spending; covers Skyrizi,80
+Immunology,gnrc_contains,Upadacitinib,immunology drug by 2024 spending; covers Rinvoq,81
+Immunology,gnrc_contains,Ustekinumab,biologic immunology drug by 2024 spending; covers Stelara and biosimilars,82
+Immunology,gnrc_contains,Etanercept,biologic immunology drug by 2024 spending; covers Enbrel,83
+Immunology,gnrc_contains,Secukinumab,biologic immunology drug by 2024 spending; covers Cosentyx,84
+Immunology,gnrc_contains,Apremilast,immunology drug by 2024 spending; covers Otezla,85
+Immunology,gnrc_contains,Tofacitinib,immunology drug by 2024 spending; covers Xeljanz,86
+Immunology,gnrc_contains,Guselkumab,biologic immunology drug by 2024 spending; covers Tremfya,87
+Immunology,gnrc_contains,Vedolizumab,biologic immunology drug by 2024 spending; covers Entyvio,88
+Immunology,gnrc_contains,Omalizumab,biologic immunology drug by 2024 spending; covers Xolair,89
+Immunology,gnrc_contains,Abatacept,biologic immunology drug by 2024 spending; covers Orencia,90
+Immunology,gnrc_contains,Deucravacitinib,immunology drug by 2024 spending; covers Sotyktu,91
+DPP-4 inhibitors,gnrc_contains,Sitagliptin,"DPP-4 inhibitor; covers Januvia, Janumet, Steglujan and combinations",92
+DPP-4 inhibitors,gnrc_contains,Linagliptin,"DPP-4 inhibitor; covers Tradjenta, Jentadueto, Trijardy and combinations",93
+DPP-4 inhibitors,gnrc_contains,Saxagliptin,"DPP-4 inhibitor; covers Onglyza, Kombiglyze and generics",94
+DPP-4 inhibitors,gnrc_contains,Alogliptin,"DPP-4 inhibitor; covers Nesina, Kazano, Oseni",95

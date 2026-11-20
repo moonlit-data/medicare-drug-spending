@@ -1,0 +1,4 @@
+cycle,selected_drug,ingredient,matched_brands,source_url,match_note
+2026,Druga,Apixaban,Druga,https://example.test/fs.pdf,"test match"
+2027,Drugb; Drugc,GLP-1 test,Drugb;Drugc,https://example.test/fs.pdf,"multi-brand selection"
+2027,Drugg,Ustekinumab,Drugg,https://example.test/fs.pdf,"star exists only on the dataset side (Drugg*); stripping matters"

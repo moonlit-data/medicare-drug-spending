@@ -1,0 +1,16 @@
+Brnd_Name,Gnrc_Name,Tot_Mftr,Mftr_Name,Tot_Spndng_2020,Tot_Dsg_Unts_2020,Tot_Clms_2020,Tot_Benes_2020,Outlier_Flag_2020,Tot_Spndng_2021,Tot_Dsg_Unts_2021,Tot_Clms_2021,Tot_Benes_2021,Outlier_Flag_2021,Tot_Spndng_2022,Tot_Dsg_Unts_2022,Tot_Clms_2022,Tot_Benes_2022,Outlier_Flag_2022,Tot_Spndng_2023,Tot_Dsg_Unts_2023,Tot_Clms_2023,Tot_Benes_2023,Outlier_Flag_2023,Tot_Spndng_2024,Tot_Dsg_Unts_2024,Tot_Clms_2024,Tot_Benes_2024,Outlier_Flag_2024
+Druga,Apixaban,2,Overall,100,40,20,10,0,110,44,22,11,0,130,52,26,13,0,160,64,32,16,0,200,80,40,20,0
+Druga,Apixaban,2,Mftr One,60,24,12,6,0,66,26,13,6,0,78,31,15,8,0,96,38,19,10,0,120,48,24,12,0
+Druga,Apixaban,2,Mftr Two,40,16,8,4,0,44,18,9,5,0,52,21,11,5,0,64,26,13,6,0,80,32,16,8,0
+Drugb,Semaglutide,1,Overall,100,40,20,10,0,110,40,20,10,0,130,40,20,10,0,160,40,20,10,0,200,40,20,10,0
+Drugb,Semaglutide,1,Mftr One,100,40,20,10,0,110,40,20,10,0,130,40,20,10,0,160,40,20,10,0,200,40,20,10,0
+Drugc,Tirzepatide,1,Overall,,,,,,110,44,22,11,0,130,52,26,13,0,160,64,32,16,0,50,20,10,5,0
+Drugc,Tirzepatide,1,Mftr One,,,,,,110,44,22,11,0,130,52,26,13,0,160,64,32,16,0,50,20,10,5,0
+Drugd,Etanercept,1,Overall,30,12,6,3,0,,,,,,,,,,,,,,,,,,,,
+Drugd,Etanercept,1,Mftr One,30,12,6,3,0,,,,,,,,,,,,,,,,,,,,
+Druge,Lenalidomide,1,Overall,100,40,20,,0,110,44,22,,0,130,52,26,,0,140,56,28,,0,150,45,30,,0
+Druge,Lenalidomide,1,Mftr One,100,40,20,,0,110,44,22,,0,130,52,26,,0,140,56,28,,0,150,45,30,,0
+Drugf,Etanercept,1,Overall,80,32,16,8,0,80,32,16,8,0,80,32,16,8,0,80,32,16,8,0,80,32,16,8,0
+Drugf,Etanercept,1,Mftr One,80,32,16,8,0,80,32,16,8,0,80,32,16,8,0,80,32,16,8,0,80,32,16,8,0
+Drugg*,Stelara Generic,1,Overall,60,24,12,10,0,70,28,14,11,0,80,32,16,12,1,85,34,17,13,0,90,,,15,0
+Drugg*,Stelara Generic,1,Mftr One,60,24,12,10,0,70,28,14,11,0,80,32,16,12,1,85,34,17,13,0,90,,,15,0
