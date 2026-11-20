@@ -236,8 +236,13 @@ def concentration_chart(conc, pct_change):
         ax.set_xticks(conc["yr"])
         ax.set_ylabel("Share of gross spending (%)")
         first = conc.iloc[0]
-        ax.set_title(f"The top 10 drugs' share held near {first['top10_share_pct']:.0f}% "
-                     f"while spending grew {pct_change:.0f}%", fontsize=11, loc="left", pad=10)
+        a, b = first["top10_share_pct"], last["top10_share_pct"]
+        if abs(b - a) < 1:
+            share_txt = f"held near {a:.0f}%"
+        else:
+            share_txt = f"{'rose' if b > a else 'fell'} from {a:.1f}% to {b:.1f}%"
+        ax.set_title(f"The top 10 drugs' share {share_txt} while spending grew {pct_change:.0f}%",
+                     fontsize=11, loc="left", pad=10)
         ax.legend(frameon=False, fontsize=9, loc="center left")
         ax.grid(axis="x", visible=False)
         return fig
